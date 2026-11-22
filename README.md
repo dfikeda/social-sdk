@@ -43,5 +43,5 @@ de novo e `isRateLimited()` quando a Meta limitou as chamadas.
 
 ## Permissões pedidas no login
 
-`pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `business_management`, `instagram_basic`,
+`pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `pages_manage_engagement` (comentar como Página), `business_management`, `instagram_basic`,
 `instagram_content_publish`, `instagram_manage_comments` (ajustáveis em `config('social.meta.scopes')`).
